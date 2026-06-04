@@ -72,7 +72,7 @@ Permite aprender sobre cada país da América do Sul com informações detalhada
 
 #### Funcionalidades
 - 🔊 **Áudio:** pronuncia o nome do país no idioma local
-- 📍 **Localização:** exibe no mapa a posição do país na América do Sul usando coordenadas da capital
+- 📍 **Localização:** exibe no mapa a posição do país na América do Sul
 - 🗺️ **Mapa:** abre o mapa com as coordenadas exatas da capital
 - 🌐 **Saiba Mais:** abre a página da Wikipedia do país
 - 📌 **Google Maps:** abre o Google Maps com as coordenadas da capital
