@@ -172,7 +172,7 @@ Projects → Import project (.aia)
 
 Desenvolvido por **Kayozkx**  
 Projeto educativo pessoal — América do Sul
-
+> Desenvolvido entre 30 de abril de 2025 e 04 de junho de 2025.
 ---
 
 > Este repositório documenta a lógica e estrutura do app para quem quiser replicar ou aprender com o projeto.
