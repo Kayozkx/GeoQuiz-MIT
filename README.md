@@ -160,7 +160,9 @@ Todos os 12 países da América do Sul:
 5. Monte os blocos seguindo a documentação de cada tela
 6. Compile e teste no celular via **MIT AI2 Companion** ou gerando o APK
 
-Caso prefira, baixe o arquivo `GeoQuizBandeiras.aia` e importe diretamente no MIT App Inventor em vez de recriar do zero:
+## 📦 Importar o Projeto
+
+Caso prefira, baixe o arquivo `GeoQuizBandeiras.aia` na seção [Releases](../../releases) e importe diretamente no MIT App Inventor em vez de recriar do zero:
 
 Projects → Import project (.aia)
 
