@@ -3,6 +3,8 @@ Quiz educativo de bandeiras da América do Sul com Modo Estudo, feito no MIT App
 
 # 🌎 GeoQuiz Bandeiras
 
+![Demo](assets/demo.gif)
+
 Aplicativo educativo desenvolvido no MIT App Inventor para Android. Teste seus conhecimentos sobre os países da América do Sul através de um quiz de bandeiras, e aprenda sobre cada país no Modo Estudo.
 
 > Projeto pessoal desenvolvido para fins de aprendizado e testes.
