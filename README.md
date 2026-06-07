@@ -42,6 +42,12 @@ GeoQuiz Bandeiras é um aplicativo educativo para Android que testa seus conheci
 
 ---
 
+## 🎥 Demonstração
+
+[![Assistir no YouTube](https://img.shields.io/badge/Assistir-YouTube-red)](https://youtube.com/shorts/Tt4WgYGffhQ?feature=share)
+
+---
+
 ![Demo](assets/demo.gif)
 
 Aplicativo educativo desenvolvido no MIT App Inventor para Android. Teste seus conhecimentos sobre os países da América do Sul através de um quiz de bandeiras, e aprenda sobre cada país no Modo Estudo.
