@@ -1,3 +1,4 @@
+![Banner](assets/banner.png)
 # 🌎 GeoQuiz Bandeiras
 ![MIT App Inventor](https://img.shields.io/badge/Engine-MIT%20App%20Inventor-blue)
 ![Plataforma](https://img.shields.io/badge/Plataforma-Android-green)
