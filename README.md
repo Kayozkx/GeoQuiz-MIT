@@ -3,6 +3,33 @@
 ![Plataforma](https://img.shields.io/badge/Plataforma-Android-green)
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
+## 📋 Índice
+
+- [Sobre o App](#-sobre-o-app)
+- [Telas do Aplicativo](#-telas-do-aplicativo)
+  - [Tela 1 — Menu Principal](#tela-1--menu-principal)
+  - [Tela 2 — Quiz](#tela-2--quiz)
+  - [Tela 3 — Modo Estudo](#tela-3--modo-estudo)
+  - [Tela 4 — Divisões Territoriais](#tela-4--divisões-territoriais)
+- [Países Incluídos](#-países-incluídos)
+- [Como Replicar](#-como-replicar)
+- [Importar o Projeto](#-importar-o-projeto)
+- [O que Aprendi](#-o-que-aprendi)
+- [Autor](#️-autor)
+
+---
+
+## 📱 Sobre o App
+
+GeoQuiz Bandeiras é um aplicativo educativo para Android que testa seus conhecimentos sobre os países da América do Sul através de um quiz de bandeiras com cronômetro, e permite aprender sobre cada país no Modo Estudo com mapas, áudios e informações detalhadas.
+
+**Plataforma:** Android
+**Ferramenta:** MIT App Inventor
+**Telas:** 4
+**Países:** 12 países da América do Sul
+
+---
+
 ![Demo](assets/demo.gif)
 
 Aplicativo educativo desenvolvido no MIT App Inventor para Android. Teste seus conhecimentos sobre os países da América do Sul através de um quiz de bandeiras, e aprenda sobre cada país no Modo Estudo.
@@ -142,12 +169,15 @@ Todos os 12 países da América do Sul:
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## 🛠️ Tecnologias Utilizadas
 
-- MIT App Inventor
-- Android
-- Google Maps (via ActivityStarter)
-- Wikipedia (via ActivityStarter)
+| Tecnologia | Uso |
+|-----------|-----|
+| MIT App Inventor | Desenvolvimento do app |
+| Android | Plataforma alvo |
+| Google Maps | Visualização das capitais via ActivityStarter |
+| Wikipedia | Links de saiba mais por país via ActivityStarter |
+| Sound | Reprodução de áudio com pronúncia dos países |
 
 ---
 
@@ -160,6 +190,8 @@ Todos os 12 países da América do Sul:
 5. Monte os blocos seguindo a documentação de cada tela
 6. Compile e teste no celular via **MIT AI2 Companion** ou gerando o APK
 
+---
+
 ## 📦 Importar o Projeto
 
 Caso prefira, baixe o arquivo `GeoQuizBandeiras.aia` na seção [Releases](../../releases) e importe diretamente no MIT App Inventor em vez de recriar do zero:
@@ -168,11 +200,25 @@ Projects → Import project (.aia)
 
 ---
 
+## 📚 O que Aprendi
+
+- Organização de listas globais e manipulação de dados no MIT App Inventor
+- Criação de sistemas de quiz com timer e pontuação
+- Integração com Google Maps e Wikipedia via ActivityStarter
+- Uso do componente Map para exibir coordenadas geográficas
+- Reprodução de áudio com o componente Sound
+- Navegação entre telas passando dados via start value
+- Documentação técnica de projetos de programação em blocos
+
+---
+
 ## ✏️ Autor
 
 Desenvolvido por **Kayozkx**  
 Projeto educativo pessoal — América do Sul
+
 > Desenvolvido entre 30 de abril de 2026 e 04 de junho de 2026.
+
 ---
 
 > Este repositório documenta a lógica e estrutura do app para quem quiser replicar ou aprender com o projeto.
