@@ -2,6 +2,9 @@
 Quiz educativo de bandeiras da América do Sul com Modo Estudo, feito no MIT App Inventor.
 
 # 🌎 GeoQuiz Bandeiras
+![MIT App Inventor](https://img.shields.io/badge/Engine-MIT%20App%20Inventor-blue)
+![Plataforma](https://img.shields.io/badge/Plataforma-Android-green)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
 ![Demo](assets/demo.gif)
 
