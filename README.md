@@ -31,6 +31,17 @@ GeoQuiz Bandeiras é um aplicativo educativo para Android que testa seus conheci
 
 ---
 
+## 🎮 Como Usar
+
+1. Abra o app no celular
+2. Na tela inicial escolha entre **Quiz** ou **Modo Estudo**
+3. No **Quiz** observe a bandeira exibida e escolha o país correto entre as 4 opções antes do tempo de 15 segundos acabar
+4. No **Modo Estudo** navegue entre os países com as setas e explore informações como capital, população, idioma e curiosidades
+5. Use o botão **Mapa** para ver a localização da capital e **Saiba Mais** para abrir a Wikipedia do país
+6. No **Modo Estudo** acesse também as divisões territoriais de cada país pelo botão **Divisões**
+
+---
+
 ![Demo](assets/demo.gif)
 
 Aplicativo educativo desenvolvido no MIT App Inventor para Android. Teste seus conhecimentos sobre os países da América do Sul através de um quiz de bandeiras, e aprenda sobre cada país no Modo Estudo.
